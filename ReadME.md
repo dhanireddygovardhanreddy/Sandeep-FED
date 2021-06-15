@@ -1,5 +1,6 @@
 <h1 align="center">Ciao 👋, It's me Sandeep !!</h1>
-<h3 align="center">Who Am I ?</h3>
+<h2 align="center">Who Am I ?</h2>
+<h3 align="center">I'm just an front-end developer and Android Enthusiast.</h3>
 
 - 🔭 I’m currently working on Frenz project.
 - 🌱 I’m currently learning Ethical Hacking & Improvising Java.
