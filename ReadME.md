@@ -1,9 +1,9 @@
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sandeep-FED?tab=followers)<h1 align="center">Ciao 👋, It's me Sandeep !!</h1>
+![GitHub followers](https://img.shields.io/github/followers/Sandeep-FED?style=social)<h1 align="center">Ciao 👋, It's me Sandeep !!</h1>
 <h2 align="center">Who Am I ?</h2>
 <h3 align="center">I'm a newbie front-end developer and Android Enthusiast.</h3><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sandeep-FED&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep-FED" /> </p>
 
-<img align="center" alt="GIF" src="https://github.com/Sandeep-FED/Sandeep-FED/blob/master/coding.gif?raw=true" width="400px" >
+<img align="center" alt="GIF" src="https://github.com/manikantaraavi/manikantaraavi/blob/main/code.gif?raw=true" width="400px" >
 
 - 🔭 I’m currently working on **Website development!!**
 - 🌱 I’m currently learning **Ethical Hacking & Improvising Java**.
@@ -14,12 +14,13 @@
 <br>
 
 ## Spotify Playing🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-<br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&redirect=true)
 
-## Metrics
+
+
+## Metrics 
 ![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
- 
+
 <br>
 <h3 align="left">Streak:</h3> 
 
