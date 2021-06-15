@@ -1,6 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Sandeep-FED?style=social)<h1 align="center">Ciao 👋, It's me Sandeep !!</h1>
 <h2 align="center">Who Am I ?</h2>
-<h3 align="center">I'm a newbie front-end developer and Android Enthusiast.</h3><br>
+<h3 align="center">I'm a newbie Front-end Developer and Android Enthusiast.</h3><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sandeep-FED&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep-FED" /> </p>
 
 <img align="center" alt="GIF" src="https://github.com/Sandeep-FED/Sandeep-FED/blob/master/coding.gif?raw=true" width="400px" >
