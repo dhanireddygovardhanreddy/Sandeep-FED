@@ -6,11 +6,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sandeep-FED?tab=followers) </p>
 
 <p align="center"
-</p>
-
 
 <img align="center" alt="GIF" src="https://github.com/manikantaraavi/manikantaraavi/blob/main/code.gif?raw=true" width="400px" >
-
+</p>
 
 - 🔭 I’m currently working on **Website development!!**
 - 🌱 I’m currently learning **Ethical Hacking & Improvising Java**.
