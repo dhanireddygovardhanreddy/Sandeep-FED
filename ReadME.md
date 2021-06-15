@@ -21,7 +21,7 @@
 ![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
  
 <br>
-<h3 align="left">Streak:</h3>
+<h3 align="left">Streak:</h3> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <br>
