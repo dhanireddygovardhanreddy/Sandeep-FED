@@ -14,7 +14,7 @@
 <br>
 
 ## Spotify Playing🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 <h3 align="left">Streak:</h3>
