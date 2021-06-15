@@ -1,4 +1,4 @@
-<h2>### Ciao, It's me Sandeep 👋 !!</h2>
+<h2>Ciao 👋, It's me Sandeep !!</h2>
 
 - 🔭 I’m currently working on Frenz project.
 - 🌱 I’m currently learning Ethical Hacking & Improvising Java.
