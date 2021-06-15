@@ -2,7 +2,8 @@
 <h2 align="center">Who Am I ?</h2>
 <h3 align="center">I'm just an front-end developer and Android Enthusiast.</h3><br>
 
-<img align="center" alt="GIF" src="C:\Users\HP\Desktop\Sandeep-FED\code.gif" width="400px">
+<img align="center" alt="GIF" src="https://github.com/manikantaraavi/manikantaraavi/blob/main/code.gif?raw=true" width="400px">
+
 
 - 🔭 I’m currently working on **Website development!!**
 - 🌱 I’m currently learning **Ethical Hacking & Improvising Java**.
