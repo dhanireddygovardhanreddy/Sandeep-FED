@@ -15,6 +15,10 @@
 
 ## Spotify Playing🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<br>
+
+## Metrics
+![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
 
 <br>
 <h3 align="left">Streak:</h3>
