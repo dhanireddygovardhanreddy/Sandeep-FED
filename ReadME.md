@@ -13,14 +13,17 @@
 
 
 <h3 align="left">Streak:</h3>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <br>
 <h3 align="left">Top Languages:</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&hide_border=true&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/Sandeep-FED/github-readme-stats)
 <br>
 <h3 align="left">Stats:</h3>
-![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=true&)
 
+![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=true&)
+<br>
 <h3 align="left">Contact Me: </h3>
 
 [![alt text][1.1]][1]
