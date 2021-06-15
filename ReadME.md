@@ -50,4 +50,4 @@
 [5]: https://dribbble.com/Snippetguy
 [6]: http://www.github.com/Sandeep-FED
 
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Sandeep-FED/)
+
