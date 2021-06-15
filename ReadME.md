@@ -3,6 +3,7 @@
 <h3 align="center">I'm just an front-end developer and Android Enthusiast.</h3><br>
 
 <img align="center" alt="GIF" src="C:\Users\HP\Desktop\Sandeep-FED\code.gif" width="400px">
+
 - 🔭 I’m currently working on **Website development!!**
 - 🌱 I’m currently learning **Ethical Hacking & Improvising Java**.
 - 💬 Ask me about **HTML5, CSS3, JS / Any tech related stuffs!!**
