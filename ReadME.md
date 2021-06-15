@@ -49,5 +49,5 @@
 [5]: https://dribbble.com/Snippetguy
 [6]: http://www.github.com/Sandeep-FED
 
-<p align="center>
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Sandeep-FED/)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
