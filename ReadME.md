@@ -44,9 +44,9 @@
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png
+[5.1]: http://i.imgur.com/1AGmwO3.png
+[6.1]: http://i.imgur.com/0o48UoR.png
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
