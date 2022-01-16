@@ -1,7 +1,6 @@
-![GitHub followers](https://img.shields.io/github/followers/Sandeep-FED?style=social)
 <h2 align="center">Who am I ?</h2>
 <h3 align="center">A novice who doing his Job, Meanwhile trying to build roms.</h3><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sandeep-FED&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep-FED" /> </p>
+<p align="center">![GitHub followers](https://img.shields.io/github/followers/Sandeep-FED?style=social) <img src="https://komarev.com/ghpvc/?username=Sandeep-FED&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep-FED" /> </p>
 
 <img align="center" alt="GIF" src="https://github.com/Sandeep-FED/Sandeep-FED/blob/a8b0731baa212b248aab0d476140a3e35a67b248/code.gif?raw=true" width="400px" >
 
