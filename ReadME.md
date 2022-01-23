@@ -10,10 +10,11 @@
 <br>
 <h3 align="left">Technology Stack</h3>
 
-
+[![Dev.to blog][1.1]][1]
 ![1.1]:(https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 [1]: https://dev.to/snippetguy
+
 <br>
 
 ## Spotify Playing🎧
@@ -38,7 +39,6 @@
 <br>
 <h3 align="left">Contact Me: </h3>
 
-[![alt text][1.1]][1]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
