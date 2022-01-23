@@ -11,7 +11,7 @@
 <br>
 
 <h3 align="center">Technology Stack</h2>
- 
+<hr>
  
 <!-- Languages -->
  <p align="center">
