@@ -13,7 +13,7 @@
 
 
 <p align="left">
-<a href="https://dev.to/snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to/snippetguy-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="snippetguy" height="30" width="40" /></a>
+<a href="https://dev.to/snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to/snippetguy-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="snippetguy" /></a>
 </p>
 
 
