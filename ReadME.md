@@ -11,7 +11,8 @@
 <h3 align="left">Technology Stack</h3>
 
 
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![1.1]:(https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+[1]: https://dev.to/snippetguy
 <br>
 
 ## Spotify Playing🎧
@@ -46,13 +47,13 @@
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png
+
 [5.1]: http://i.imgur.com/1AGmwO3.png
 [6.1]: http://i.imgur.com/0o48UoR.png
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
-[1]: http://www.twitter.com/Snippetguy
+
 [5]: https://dribbble.com/Snippetguy
 [6]: http://www.github.com/Sandeep-FED
 
