@@ -54,5 +54,4 @@
 
 <br>
 
-<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></a>
-
+<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg" /></a>
