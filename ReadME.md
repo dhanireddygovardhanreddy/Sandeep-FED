@@ -9,7 +9,7 @@
 - 💬 Ask me about **React, APIs / any tech related stuffs!!**
 <br>
 <h3 align="left">Technology Stack</h3>
-![https://dev.to/snippetguy](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to/snippetguy?style=for-the-badge&logo=dev.to&logoColor=white)
 <br>
 
 ## Spotify Playing🎧
