@@ -38,7 +38,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
-<h2 align="center">Github Stats</h2> 
+<h2 align="left">Github Stats</h2> 
 
 ![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=false)
 
