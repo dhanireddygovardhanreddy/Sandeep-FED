@@ -33,6 +33,8 @@
 
 <h3 align="center">Join My Network or Connect Me</h2>
 
+***
+
 <p align="center">
 <a href="https://dev.to/snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Community" /></a>
 <a href="https://www.linkedin.com/in/sandeepps1299/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
