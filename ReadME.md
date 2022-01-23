@@ -29,8 +29,8 @@
 <p align="left">
 <a href="https://dev.to/snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Community" /></a>
 <a href="https://www.linkedin.com/in/sandeepps1299/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
- <a href="https://twitter.com/Snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
- 
+<a href="https://twitter.com/Snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://forum.xda-developers.com/m/snippetguy.11990837/" target="blank"><img align="center" src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" alt="Twitter" /></a>
 </p>
 
 
