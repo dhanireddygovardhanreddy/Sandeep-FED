@@ -10,8 +10,7 @@
 
 <br>
 
-<h3 align="center">Technology Stack</h2>
-<hr>
+<h3 align="center">Technology Stack</h3>
  
 <!-- Languages -->
  <p align="center">
@@ -30,10 +29,10 @@
  <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="React" />
  <img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="React" />
  </p>
+ 
+<br>
+<h3 align="center">Join My Network or Connect Me</h3>
 
-<h3 align="center">Join My Network or Connect Me</h2>
-
-***
 
 <p align="center">
 <a href="https://dev.to/snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Community" /></a>
