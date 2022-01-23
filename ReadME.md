@@ -11,13 +11,9 @@
 
 ## <center>Technology Stack </center>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/snippetguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="snippetguy" height="30" width="40" /></a>
+<a href="https://dev.to/snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to/snippetguy-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="snippetguy" height="30" width="40" /></a>
 </p>
 
 
