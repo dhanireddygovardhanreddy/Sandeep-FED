@@ -8,6 +8,7 @@
 - 🌱 Still learning about **lots of tech stuffs..nvm it's a endless journey.**
 - 💬 Ask me about **React, APIs / any tech related stuffs!!**
 <br>
+
 ## Technology Stack
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to/snippetguy-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
