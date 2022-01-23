@@ -9,7 +9,7 @@
 - 💬 Ask me about **React, APIs / any tech related stuffs!!**
 <br>
 
-<h2 align="center"> <center>Technology Stack </h2>
+<h3 align="center"> <center>Technology Stack </h2>
 
 
 <p align="left">
