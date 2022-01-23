@@ -48,12 +48,7 @@
 <br>
 <h3 align="left">Top Languages:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=8&theme=tokyonight)](https://github.com/Sandeep-FED/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&hide_border=true&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/Sandeep-FED/github-readme-stats)
-<br>
-<h3 align="left">Stats:</h3>
-
 ![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=true&)
-<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/Sandeep-FED/github-readme-stats)
 
