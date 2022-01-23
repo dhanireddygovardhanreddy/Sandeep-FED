@@ -38,12 +38,21 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
-<!-- ## Metrics
-![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
-  -->
-<br>
 <h2 align="center">Github Stats</h2> 
 
-![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=false)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=radical&hide_border=false)](https://git.io/streak-stats)
+![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=false)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=3&theme=radical&hide_border=false)](https://github.com/Sandeep-FED/github-readme-stats)
+
+<br>
+
+<h2 align="center">Metrics</h2> 
+
+![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
+
+<br>
+
+<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></a>
 
