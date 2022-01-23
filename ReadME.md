@@ -11,8 +11,6 @@
 <br>
 
 <h3 align="center">Technology Stack</h3>
- 
-<!-- Languages -->
  <p align="center">
  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
  <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="React" />
