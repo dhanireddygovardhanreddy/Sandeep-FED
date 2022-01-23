@@ -32,23 +32,22 @@
  <a href="https://t.me/Snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-
 <br>
 
 ## Spotify Playing🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
-## Metrics
+<!-- ## Metrics
 ![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
- 
+  -->
 <br>
-<h3 align="left">Streak:</h3> 
+<h3 align="left">Github Stats</h3> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <br>
 <h3 align="left">Top Languages:</h3>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&hide_border=true&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/Sandeep-FED/github-readme-stats)
 <br>
 <h3 align="left">Stats:</h3>
