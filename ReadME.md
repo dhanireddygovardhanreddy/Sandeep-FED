@@ -8,7 +8,7 @@
 - 🌱 Still learning about **lots of tech stuffs..nvm it's a endless journey.**
 - 💬 Ask me about **React, APIs / any tech related stuffs!!**
 
-<h3 align="center"> <center>Technology Stack</h2>
+<h3 align="center">Technology Stack</h2>
  
 <!-- Languages -->
  
@@ -28,7 +28,7 @@
 
  </p>
 
-<h3 align="center"> <center>Join My Network or Connect Me</h2>
+<h3 align="center">Join My Network or Connect Me</h2>
 
 <p align="center">
 <a href="https://dev.to/snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Community" /></a>
