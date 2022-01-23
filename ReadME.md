@@ -8,6 +8,8 @@
 - 🌱 Still learning about **lots of tech stuffs..nvm it's a endless journey.**
 - 💬 Ask me about **React, APIs / any tech related stuffs!!**
 
+<br>
+
 <h3 align="center">Technology Stack</h2>
  
 <!-- Languages -->
