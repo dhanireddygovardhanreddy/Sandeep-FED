@@ -45,5 +45,5 @@
 <h2 align="center">Github Stats</h2> 
 
 ![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=false)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=radical&hide_border=false)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=5&theme=radical&hide_border=false)](https://github.com/Sandeep-FED/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=4&theme=radical&hide_border=false)](https://github.com/Sandeep-FED/github-readme-stats)
 
