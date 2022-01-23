@@ -9,10 +9,10 @@
 - 💬 Ask me about **React, APIs / any tech related stuffs!!**
 <br>
 
-<h3 align="center"> <center>Join My Network or Connect Me</h2>
+<h3 align="center"> <center>Technology Stack</h2>
 
-<br>
 ---
+ 
 <h3 align="center"> <center>Join My Network or Connect Me</h2>
 
 <p align="left">
