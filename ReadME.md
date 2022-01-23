@@ -1,11 +1,9 @@
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Sandeep-FED&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep-FED" /> </p>
-
 <img align="center" alt="GIF" src="https://github.com/Sandeep-FED/Sandeep-FED/blob/a8b0731baa212b248aab0d476140a3e35a67b248/code.gif?raw=true" width="400px" >
 
-<br>
 
-<h3 align="center">Technology Stack</h3>
+## Technology Stack
+
  <p align="center">
  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
  <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="React" />
