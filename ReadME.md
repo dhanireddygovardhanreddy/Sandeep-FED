@@ -1,4 +1,4 @@
-[![Snippetguy's GitHub Banner]<img src="./Banner.png" height="236" width="689">
+<img src="./Banner.png" height="300" width="700">
 <!-- 
 <img align="center" alt="GIF" src="https://github.com/Sandeep-FED/Sandeep-FED/blob/a8b0731baa212b248aab0d476140a3e35a67b248/code.gif?raw=true" width="400px" >
  -->
