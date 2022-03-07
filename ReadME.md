@@ -1,4 +1,3 @@
-<img src="./Banner.png" height="300" width="700">
 <!-- 
 <img align="center" alt="GIF" src="https://github.com/Sandeep-FED/Sandeep-FED/blob/a8b0731baa212b248aab0d476140a3e35a67b248/code.gif?raw=true" width="400px" >
  -->
@@ -54,3 +53,5 @@
 <h2 align="left">Metrics</h2> 
 
 ![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
+
+![snake gif](https://github.com/Sandeep-FED/Sandeep-FED/blob/output/github-contribution-grid-snake.gif)
