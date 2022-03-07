@@ -1,3 +1,4 @@
+[![Snippetguy's GitHub Banner](./Banner.png)](https://braydoncoyer.dev)
 <!-- 
 <img align="center" alt="GIF" src="https://github.com/Sandeep-FED/Sandeep-FED/blob/a8b0731baa212b248aab0d476140a3e35a67b248/code.gif?raw=true" width="400px" >
  -->
