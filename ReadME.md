@@ -54,4 +54,4 @@
 
 ![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
 
-![snake gif](https://github.com/Sandeep-FED/Sandeep-FED/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Sandeep-FED/Sandeep-FED/blob/output/github-contribution-grid-snake.svg)
