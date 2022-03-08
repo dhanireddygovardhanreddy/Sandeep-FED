@@ -44,6 +44,8 @@
 
 ![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=false)
 
+## 🔥 Streak stats
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=radical&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=3&theme=radical&hide_border=false)
