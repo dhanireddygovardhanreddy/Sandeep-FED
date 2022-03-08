@@ -3,9 +3,9 @@
 <img align="center" alt="GIF" src="https://github.com/Sandeep-FED/Sandeep-FED/blob/a8b0731baa212b248aab0d476140a3e35a67b248/code.gif?raw=true" width="400px" >
  -->
 
-<h2 align="center">Technology Stack </h2>
+<h2 align="center">👨‍💻 Technology Stack </h2>
 
- <p align="justify">
+ <p align="center">
  <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img   src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
  <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="React" />
@@ -24,7 +24,7 @@
  </p>
  
 <br>
-<h2 align="center">Join My Network or Reach Me Out:</h2>
+<h2 align="center">🌐 Join My Network or Reach Me Out:</h2>
 
 <p align="center">
 <a href="https://dev.to/snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Community" /></a>
@@ -40,7 +40,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
-<h2 align="left">Github Stats</h2> 
+<h2 align="left">📊 Github Stats</h2> 
 
 ![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=false)
 
@@ -52,7 +52,7 @@
 
 <br>
 
-<h2 align="left">Metrics</h2> 
+<h2 align="left">📈 Metrics</h2> 
 
 ![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
 
