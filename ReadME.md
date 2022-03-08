@@ -11,10 +11,10 @@
 </p>
 
 ---
+<br/>
 
---
+<br/>
 
---
 <h2 align="center">👨‍💻 Technology Stack </h2>
 
  <p align="center">
