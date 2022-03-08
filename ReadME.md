@@ -13,6 +13,9 @@
 ---
 <br/>
 
+## 🐍 Snake Contribution Graph
+![snake gif](https://github.com/Sandeep-FED/Sandeep-FED/blob/output/github-contribution-grid-snake.svg)
+
 <br/>
 
 <h2 align="center">👨‍💻 Technology Stack </h2>
@@ -36,10 +39,6 @@
  </p>
  
 <br>
-<h2 align="center">🌐 Join My Network or Reach Me Out:</h2>
-
-
-<br>
 
 ## Spotify Playing🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
@@ -61,4 +60,4 @@
 
 ![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
 
-![snake gif](https://github.com/Sandeep-FED/Sandeep-FED/blob/output/github-contribution-grid-snake.svg)
+
