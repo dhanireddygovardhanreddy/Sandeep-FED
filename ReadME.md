@@ -10,7 +10,8 @@
  <a href="https://t.me/Snippetguy" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-===
+==
+
 <h2 align="center">👨‍💻 Technology Stack </h2>
 
  <p align="center">
