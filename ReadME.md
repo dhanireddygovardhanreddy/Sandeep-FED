@@ -42,7 +42,7 @@
  
 <br/>
 
-## Spotify Playing🎧
+## 🎧 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
