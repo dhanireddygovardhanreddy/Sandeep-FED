@@ -14,6 +14,9 @@
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🐍 Snake Contribution Graph
 ![snake gif](https://github.com/Sandeep-FED/Sandeep-FED/blob/output/github-contribution-grid-snake.svg)
 
