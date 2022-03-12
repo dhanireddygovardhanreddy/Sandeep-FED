@@ -50,13 +50,13 @@
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
 
 ## 📊 Github Stats
-![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=radical&hide_border=false)
+![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=javascript&hide_border=true)
 
 ## 🔥 Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=radical&hide_border=false)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=javascript&hide_border=true)
 
 ## ⚡ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=3&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=3&theme=javascript&hide_border=true)
 
 <br/>
 
