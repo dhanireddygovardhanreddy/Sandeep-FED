@@ -62,7 +62,7 @@ TypeScript   6 mins          █████████████████
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=darcula&hide_border=true)
 
 ## ⚡ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=3&theme=darcula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=5&theme=darcula&hide_border=true)
 
 <br/>
 
