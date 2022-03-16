@@ -16,7 +16,7 @@
 
 # Pinned Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&device_oneplus_avicii)](https://github.com/Sandeep-FED/device_oneplus_avicii)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&device_oneplus_avicii)](https://github.com/Sandeep-FED/device_oneplus_avicii) -->
 
 ## Code Stats
 <!--START_SECTION:waka-->
