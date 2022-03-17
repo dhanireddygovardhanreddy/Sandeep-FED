@@ -16,7 +16,11 @@
 
 ## Pinned Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_oneplus_avicii)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_oneplus_avicii&theme=darcula&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_oneplus_sm7250-common&theme=darcula&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=Sandeep-FED.github.io&theme=darcula&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=covid-19-tracker&theme=darcula&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=amftraderz&theme=darcula&hide_border=true)
 
 ## Code Stats
 <!--START_SECTION:waka-->
@@ -75,3 +79,7 @@ Git          1 min           █░░░░░░░░░░░░░░░░
 
 ## 📈 Metrics
 ![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
+
+## Recent Commits
+
+<!-- START gadpp -->
