@@ -14,7 +14,7 @@
 
 <br/>
 
-## Pinned Repos
+## 📌 Pinned Repos
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_oneplus_avicii&theme=darcula&hide_border=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_oneplus_sm7250-common&theme=darcula&hide_border=true)
@@ -22,7 +22,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=covid-19-tracker&theme=darcula&hide_border=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=amftraderz&theme=darcula&hide_border=true)
 
-## Code Stats
+## 👨‍💻 Code Stats
 <!--START_SECTION:waka-->
 
 ```text
