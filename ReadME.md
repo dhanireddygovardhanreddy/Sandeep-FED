@@ -82,6 +82,6 @@ Git          1 min           ░░░░░░░░░░░░░░░░░
 ## 📈 Metrics
 ![Metrics](https://github.com/Sandeep-FED/Sandeep-FED/blob/master/github-metrics.svg)
 
-## Recent Commits
+<!-- ## Recent Commits -->
 
 <!-- START gadpp -->
