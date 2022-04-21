@@ -16,8 +16,8 @@
 
 ## 📌 Pinned Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_oneplus_avicii&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/device_op_avicii)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_op_sm7250-common&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/device_oneplus_sm7250-common)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_op_avicii&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/device_op_avicii)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_op_sm7250-common&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/device_op_sm7250-common)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=Sandeep-FED.github.io&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/Sandeep-FED.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=covid-19-tracker&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/covid-19-tracker.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=amftraderz&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/amftraderz)
