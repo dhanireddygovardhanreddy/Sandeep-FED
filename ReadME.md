@@ -16,11 +16,11 @@
 
 ## 📌 Pinned Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_op_avicii&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/device_op_avicii)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_op_sm7250-common&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/device_op_sm7250-common)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=Sandeep-FED.github.io&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/Sandeep-FED.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=covid-19-tracker&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/covid-19-tracker.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=amftraderz&theme=darcula&hide_border=true)](https://github.com/Sandeep-FED/amftraderz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_op_avicii&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/device_op_avicii)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_op_sm7250-common&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/device_op_sm7250-common)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=Sandeep-FED.github.io&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/Sandeep-FED.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=covid-19-tracker&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/covid-19-tracker.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=amftraderz&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/amftraderz)
 
 ## 👨‍💻 Code Stats
 <!--START_SECTION:waka-->
@@ -64,13 +64,13 @@ HTML   47 mins         ███████████████████
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ## 📊 Github Stats
-![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=darcula&hide_border=true)
+![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=codeSTACKr&hide_border=true)
 
 ## 🔥 Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=darcula&hide_border=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=codeSTACKr&hide_border=true)
 
 ## ⚡ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=5&theme=darcula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=5&theme=codeSTACKr&hide_border=true)
 
 <br/>
 
