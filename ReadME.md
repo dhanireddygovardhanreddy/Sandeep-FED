@@ -67,7 +67,7 @@ HTML   47 mins         ███████████████████
 ![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=codeSTACKr&hide_border=true)
 
 ## 🔥 Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=codeSTACKr&hide_border=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=darcula&hide_border=true)
 
 ## ⚡ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&langs_count=5&theme=codeSTACKr&hide_border=true)
