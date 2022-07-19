@@ -26,8 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Git          14 mins         ███████████████████████░░   91.57 %
-TypeScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
