@@ -40,7 +40,7 @@ No activity tracked
 ![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=codeSTACKr&hide_border=true)
 
 ## 🔥 Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=darcula&hide_border=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=ambient-gradient&hide_border=true)
 
 ## ⚡ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&layout=compact&theme=codeSTACKr&hide_border=true)
