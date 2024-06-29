@@ -36,11 +36,13 @@ No activity tracked
 ## 🎧 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sanduzep&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-## 📊 Github Stats
-![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=codeSTACKr&hide_border=true)
+## Github 🔥 Streaks & 📊 Stats
+<div>
 
-## 🔥 Streak Stats
+![Sandeep GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-FED&show_icons=true&theme=codeSTACKr&hide_border=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandeep-FED&theme=ambient-gradient&hide_border=true)
+
+</div>
 
 ## ⚡ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-FED&layout=compact&theme=codeSTACKr&hide_border=true)
