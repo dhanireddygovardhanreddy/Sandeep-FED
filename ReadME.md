@@ -1,7 +1,4 @@
 [![Sandeep's GitHub Banner](/Banner.png)](https://Sandeep-FED.github.io)
-<!-- 
-<img align="center" alt="GIF" src="https://github.com/Sandeep-FED/Sandeep-FED/blob/a8b0731baa212b248aab0d476140a3e35a67b248/code.gif?raw=true" width="400px" >
- -->
 
 ## 💬 Reach Me!!
 <p align="left">
@@ -12,16 +9,6 @@
 <a href="https://t.me/Snippetguy" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-<br/>
-
-## 📌 Pinned Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_op_avicii&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/device_op_avicii)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=device_op_sm7250-common&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/device_op_sm7250-common)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=Sandeep-FED.github.io&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/Sandeep-FED.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=covid-19-tracker&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/covid-19-tracker.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-FED&repo=amftraderz&theme=codeSTACKr&hide_border=true)](https://github.com/Sandeep-FED/amftraderz)
-
 ## 👨‍💻 Code Stats
 <!--START_SECTION:waka-->
 
@@ -31,7 +18,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 🐍 Snake Contribution Graph
+## 🐍 Contribution Graph
 [![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandeep-FED&theme=modern-lilac&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
