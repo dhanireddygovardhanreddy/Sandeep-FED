@@ -32,7 +32,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ## 🐍 Snake Contribution Graph
-![snake gif](https://github.com/Sandeep-FED/Sandeep-FED/blob/output/github-contribution-grid-snake.svg)
+[![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandeep-FED)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
