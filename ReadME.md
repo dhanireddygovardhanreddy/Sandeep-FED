@@ -1,6 +1,22 @@
-[![Sandeep's GitHub Banner](/Banner.png)](https://Sandeep-FED.github.io)
+## 👨‍💻 Technology Stack
 
-## 💬 Reach Me!!
+ <p align="left">
+ <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+ <img  src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logo=react&logoColor=61DAFB" alt="Next.js" />
+ 
+ 
+ <!--Tools -->
+ 
+ <img  src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+ <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS-Code" />
+ <img  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual-Studio" />
+ <br/>
+ </p>
+ 
+<br/>
+
+
+## 💬 Reach Me Out!!
 <p align="left">
 <a href="https://forum.xda-developers.com/m/snippetguy.11990837/" target="blank"><img src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA" /></a>
 <a href="https://dev.to/snippetguy" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Community" /></a>
@@ -21,30 +37,6 @@ No activity tracked
 ## 🐍 Contribution Graph
 [![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandeep-FED&theme=modern-lilac&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
-
-## 👨‍💻 Technology Stack
-
- <p align="left">
- <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
- <img   src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
- <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
- <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery" />
- <img   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
-  <img   src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
- 
- <!--Tools -->
- 
- <img   src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL-server" />
- <img  src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
- <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS-Code" />
- <img  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual-Studio" />
- <br/>
- <img  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
- </p>
- 
 <br/>
 
 ## 🎧 Spotify Playing
